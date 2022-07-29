@@ -1,0 +1,31 @@
+{
+  "name": "gitoxy",
+  "version": "1.0.0",
+  "description": "Gitoxy is a tool that alleviates pain by automating GitHub operations such as configuring GitHub Advanced Security (GHAS) and workflows.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nawinto99/gitoxy.git"
+  },
+  "keywords": [],
+  "author": "Naveen Thurimerla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nawinto99/gitoxy/issues"
+  },
+  "homepage": "https://github.com/nawinto99/gitoxy#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.31.0",
+    "@typescript-eslint/parser": "^5.31.0",
+    "eslint": "^8.20.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "typescript": "^4.7.4"
+  }
+}
