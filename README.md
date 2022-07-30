@@ -6,4 +6,5 @@
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/nawinto99/gitoxy.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/nawinto99/gitoxy/context:javascript)
 
 Gitoxy is a tool that alleviates pain by automating GitHub operations such as configuring GitHub Advanced Security (GHAS) and workflows.
+
 ![gitoxy](./assets/gitoxy.png)
