@@ -1,6 +1,6 @@
 /* eslint-disable no-undef */
 
-import sum from '../src/main';
+import sum from '../src/app';
 
 test('adds 1 + 2 to equal 3', () => {
   expect(sum(1, 2)).toBe(3);
