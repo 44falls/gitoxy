@@ -1,6 +1,6 @@
 {
   "name": "gitoxy",
-  "version": "1.0.3",
+  "version": "0.0.1",
   "description": "Gitoxy is a tool that alleviates pain by automating GitHub operations such as configuring GitHub Advanced Security (GHAS) and workflows.",
   "main": "src/app.js",
   "directories": {
